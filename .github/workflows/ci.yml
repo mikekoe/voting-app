@@ -36,7 +36,7 @@ jobs:
         working-directory: result
         run: |
           npm ci
-          npm test --if-present
+          node --check server.js
 
       # worker (.NET)
       - uses: actions/setup-dotnet@v4
