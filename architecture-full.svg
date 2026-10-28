@@ -1,0 +1,321 @@
+<svg viewBox="0 0 1100 750" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMjAwYzg4MC1iYmJjLTQ4ZGEtYmIxZS0xZWZjNGI0Y2NlOTQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDhmgPbuAcLmfUPI724KGdgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0ZTE1OGE1ZS00NTQ5LTQ0OTktYTJlNi0zZWM3ODcyZTk4NGZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoObFHmmVBCa8xuZx1NfVAUgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggvaf955IPm1mQ/KsEY859dGfttsa6tXTvj+6/7pywrO2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaP6Dyr5o7xUKyypNHtDwgpEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAlHFVAjroGRFCm093anZZkugvPwWhwUOzTGZDfvsGjH2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiqZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIyMDBjODgwLWJiYmMtNDhkYS1iYjFlLTFlZmM0YjRjY2U5NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmE5MDczZjk3LWU3NDgtNGEyOS1iYTQwLWZjYTBmZjE3ZDcyY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC9p/3nkg+bWZD8qwRjzn10Z+22xrq1dO+P7r/unLCs7aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggd3EOBCO3ISFIufZhUFMISBE6gevBp+jybZ+D16z7J6+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggHY6+EXH2M9ip3Eom7wNoVNmTKxAOu9A5AIto/zhZmy10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDuTyGeByDuWd858c3uNp6IGkac5BsoK071K/CB14TAsD80nstpiYc9ndow+Vl2riDTxDwtve6KfIR1uDRd336s=</c2pa:manifest></metadata>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#3b82f6"/>
+    </marker>
+    <marker id="arrow-green" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#10b981"/>
+    </marker>
+    <marker id="arrow-orange" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#f59e0b"/>
+    </marker>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#00000022"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1100" height="750" fill="#f8fafc" rx="12"/>
+
+  <!-- Title -->
+  <text x="550" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#0f172a">Voting App — Full Architecture</text>
+  <text x="550" y="56" text-anchor="middle" font-size="12" fill="#64748b">CI/CD Pipeline · Docker · AWS EKS · Helm</text>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- LANE 1: Developer & Git -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <rect x="16" y="72" width="160" height="290" rx="10" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="96" y="92" text-anchor="middle" font-size="11" font-weight="700" fill="#1d4ed8">DEVELOPER</text>
+
+  <!-- Developer icon -->
+  <circle cx="96" cy="128" r="18" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="96" y="133" text-anchor="middle" font-size="16">👤</text>
+  <text x="96" y="155" text-anchor="middle" font-size="10" fill="#1e40af">mikekoe</text>
+
+  <!-- Git push box -->
+  <rect x="36" y="168" width="120" height="44" rx="8" fill="#1d4ed8" filter="url(#shadow)"/>
+  <text x="96" y="186" text-anchor="middle" font-size="11" font-weight="600" fill="white">git push</text>
+  <text x="96" y="201" text-anchor="middle" font-size="10" fill="#bfdbfe">→ main branch</text>
+
+  <!-- GitHub repo box -->
+  <rect x="36" y="226" width="120" height="44" rx="8" fill="#0f172a" filter="url(#shadow)"/>
+  <text x="96" y="244" text-anchor="middle" font-size="11" font-weight="600" fill="white">GitHub</text>
+  <text x="96" y="259" text-anchor="middle" font-size="10" fill="#94a3b8">mikekoe/voting-app</text>
+
+  <!-- GHCR box -->
+  <rect x="36" y="284" width="120" height="64" rx="8" fill="#7c3aed" filter="url(#shadow)"/>
+  <text x="96" y="304" text-anchor="middle" font-size="11" font-weight="600" fill="white">GHCR</text>
+  <text x="96" y="320" text-anchor="middle" font-size="9" fill="#ddd6fe">voting-app-vote</text>
+  <text x="96" y="333" text-anchor="middle" font-size="9" fill="#ddd6fe">voting-app-result</text>
+  <text x="96" y="346" text-anchor="middle" font-size="9" fill="#ddd6fe">voting-app-worker</text>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- LANE 2: GitHub Actions -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <rect x="192" y="72" width="230" height="290" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1.5"/>
+  <text x="307" y="92" text-anchor="middle" font-size="11" font-weight="700" fill="#15803d">GITHUB ACTIONS CI/CD</text>
+
+  <!-- test job -->
+  <rect x="208" y="100" width="198" height="54" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="1.2"/>
+  <text x="307" y="118" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">① test</text>
+  <text x="307" y="132" text-anchor="middle" font-size="9" fill="#166534">py_compile · node --check</text>
+  <text x="307" y="145" text-anchor="middle" font-size="9" fill="#166534">dotnet build -c Release</text>
+
+  <!-- build job -->
+  <rect x="208" y="166" width="198" height="54" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="1.2"/>
+  <text x="307" y="184" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">② build</text>
+  <text x="307" y="198" text-anchor="middle" font-size="9" fill="#166534">docker buildx (vote/result/worker)</text>
+  <text x="307" y="211" text-anchor="middle" font-size="9" fill="#166534">tagged with commit SHA</text>
+
+  <!-- trivy job -->
+  <rect x="208" y="232" width="198" height="54" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="1.2"/>
+  <text x="307" y="250" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">③ Trivy scan</text>
+  <text x="307" y="264" text-anchor="middle" font-size="9" fill="#166534">CRITICAL + HIGH (unfixed)</text>
+  <text x="307" y="278" text-anchor="middle" font-size="9" fill="#dc2626">blocks push on failure ✗</text>
+
+  <!-- deploy job -->
+  <rect x="208" y="298" width="198" height="54" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="1.2"/>
+  <text x="307" y="316" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">④ deploy</text>
+  <text x="307" y="330" text-anchor="middle" font-size="9" fill="#166534">helm upgrade --install</text>
+  <text x="307" y="344" text-anchor="middle" font-size="9" fill="#166534">→ EKS capstone-eks</text>
+
+  <!-- Arrows between jobs -->
+  <line x1="307" y1="154" x2="307" y2="166" stroke="#10b981" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+  <line x1="307" y1="220" x2="307" y2="232" stroke="#10b981" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+  <line x1="307" y1="286" x2="307" y2="298" stroke="#10b981" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- LANE 3: AWS EKS + Helm -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <rect x="438" y="72" width="644" height="290" rx="10" fill="#fff7ed" stroke="#fed7aa" stroke-width="1.5"/>
+  <text x="760" y="92" text-anchor="middle" font-size="11" font-weight="700" fill="#c2410c">AWS EKS — eu-north-1 — namespace: voting</text>
+
+  <!-- Terraform box -->
+  <rect x="454" y="100" width="110" height="60" rx="7" fill="#7c3aed" filter="url(#shadow)"/>
+  <text x="509" y="120" text-anchor="middle" font-size="11" font-weight="600" fill="white">Terraform</text>
+  <text x="509" y="135" text-anchor="middle" font-size="9" fill="#ddd6fe">EKS cluster</text>
+  <text x="509" y="148" text-anchor="middle" font-size="9" fill="#ddd6fe">2× t3.medium nodes</text>
+
+  <!-- Helm box -->
+  <rect x="454" y="174" width="110" height="60" rx="7" fill="#0369a1" filter="url(#shadow)"/>
+  <text x="509" y="194" text-anchor="middle" font-size="11" font-weight="600" fill="white">Helm</text>
+  <text x="509" y="209" text-anchor="middle" font-size="9" fill="#bae6fd">voting-app chart</text>
+  <text x="509" y="222" text-anchor="middle" font-size="9" fill="#bae6fd">values.yaml</text>
+
+  <!-- Helm history / rollback -->
+  <rect x="454" y="248" width="110" height="70" rx="7" fill="#0369a1" filter="url(#shadow)"/>
+  <text x="509" y="266" text-anchor="middle" font-size="10" font-weight="600" fill="white">helm history</text>
+  <text x="509" y="280" text-anchor="middle" font-size="8.5" fill="#bae6fd">rev 1: Install ✓</text>
+  <text x="509" y="293" text-anchor="middle" font-size="8.5" fill="#fca5a5">rev 2: Bad tag ✗</text>
+  <text x="509" y="306" text-anchor="middle" font-size="8.5" fill="#bae6fd">rev 3: Rollback ✓</text>
+
+  <!-- vote pods -->
+  <rect x="590" y="100" width="110" height="64" rx="7" fill="#1d4ed8" filter="url(#shadow)"/>
+  <text x="645" y="120" text-anchor="middle" font-size="11" font-weight="600" fill="white">vote</text>
+  <text x="645" y="135" text-anchor="middle" font-size="9" fill="#bfdbfe">Python / Flask</text>
+  <text x="645" y="149" text-anchor="middle" font-size="9" fill="#bfdbfe">2 replicas · uid 10001</text>
+  <text x="645" y="160" text-anchor="middle" font-size="8" fill="#93c5fd">:8080</text>
+
+  <!-- result pods -->
+  <rect x="590" y="180" width="110" height="64" rx="7" fill="#0f766e" filter="url(#shadow)"/>
+  <text x="645" y="200" text-anchor="middle" font-size="11" font-weight="600" fill="white">result</text>
+  <text x="645" y="215" text-anchor="middle" font-size="9" fill="#99f6e4">Node.js</text>
+  <text x="645" y="229" text-anchor="middle" font-size="9" fill="#99f6e4">2 replicas · uid 1000</text>
+  <text x="645" y="240" text-anchor="middle" font-size="8" fill="#5eead4">:8081</text>
+
+  <!-- worker pods -->
+  <rect x="590" y="260" width="110" height="64" rx="7" fill="#b45309" filter="url(#shadow)"/>
+  <text x="645" y="280" text-anchor="middle" font-size="11" font-weight="600" fill="white">worker</text>
+  <text x="645" y="295" text-anchor="middle" font-size="9" fill="#fde68a">.NET 8</text>
+  <text x="645" y="309" text-anchor="middle" font-size="9" fill="#fde68a">1 replica · uid 10001</text>
+
+  <!-- redis -->
+  <rect x="730" y="140" width="110" height="54" rx="7" fill="#dc2626" filter="url(#shadow)"/>
+  <text x="785" y="160" text-anchor="middle" font-size="11" font-weight="600" fill="white">Redis</text>
+  <text x="785" y="174" text-anchor="middle" font-size="9" fill="#fecaca">redis:7-alpine</text>
+  <text x="785" y="186" text-anchor="middle" font-size="8" fill="#fca5a5">queue · port 6379</text>
+
+  <!-- postgres -->
+  <rect x="730" y="214" width="110" height="54" rx="7" fill="#1e40af" filter="url(#shadow)"/>
+  <text x="785" y="234" text-anchor="middle" font-size="11" font-weight="600" fill="white">PostgreSQL</text>
+  <text x="785" y="248" text-anchor="middle" font-size="9" fill="#bfdbfe">postgres:15-alpine</text>
+  <text x="785" y="260" text-anchor="middle" font-size="8" fill="#93c5fd">port 5432</text>
+
+  <!-- Browser boxes -->
+  <rect x="872" y="108" width="110" height="44" rx="7" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.2"/>
+  <text x="927" y="127" text-anchor="middle" font-size="11" fill="#334155">🌐 Browser</text>
+  <text x="927" y="143" text-anchor="middle" font-size="9" fill="#64748b">cast vote</text>
+
+  <rect x="872" y="188" width="110" height="44" rx="7" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.2"/>
+  <text x="927" y="207" text-anchor="middle" font-size="11" fill="#334155">🌐 Browser</text>
+  <text x="927" y="223" text-anchor="middle" font-size="9" fill="#64748b">view results</text>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- DATA FLOW ARROWS (app layer) -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+
+  <!-- Browser → vote -->
+  <line x1="872" y1="130" x2="700" y2="130" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="5,3" marker-end="url(#arrow-blue)"/>
+
+  <!-- vote → redis -->
+  <line x1="700" y1="138" x2="730" y2="162" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="716" y="153" font-size="8" fill="#64748b">enqueue</text>
+
+  <!-- redis → worker -->
+  <line x1="760" y1="194" x2="700" y2="285" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="718" y="248" font-size="8" fill="#64748b">dequeue</text>
+
+  <!-- worker → postgres -->
+  <line x1="700" y1="290" x2="730" y2="250" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="726" y="275" font-size="8" fill="#64748b">persist</text>
+
+  <!-- postgres → result -->
+  <line x1="730" y1="228" x2="700" y2="218" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="705" y="222" font-size="8" fill="#64748b">read</text>
+
+  <!-- result → browser -->
+  <line x1="700" y1="208" x2="872" y2="208" stroke="#10b981" stroke-width="1.5" stroke-dasharray="5,3" marker-end="url(#arrow-green)"/>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- CI/CD FLOW ARROWS -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+
+  <!-- developer → github -->
+  <line x1="96" y1="212" x2="96" y2="226" stroke="#1d4ed8" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
+
+  <!-- github → actions (trigger) -->
+  <line x1="156" y1="248" x2="208" y2="128" stroke="#10b981" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+  <text x="170" y="195" font-size="8" fill="#15803d" transform="rotate(-55,170,195)">triggers</text>
+
+  <!-- actions build → GHCR push -->
+  <line x1="208" y1="220" x2="156" y2="312" stroke="#7c3aed" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="155" y="268" font-size="8" fill="#7c3aed">push image</text>
+
+  <!-- actions deploy → EKS -->
+  <line x1="406" y1="325" x2="454" y2="204" stroke="#f59e0b" stroke-width="1.8" stroke-dasharray="6,3" marker-end="url(#arrow-orange)"/>
+  <text x="415" y="270" font-size="8" fill="#d97706">helm upgrade</text>
+
+  <!-- GHCR → EKS pull -->
+  <line x1="156" y1="316" x2="590" y2="150" stroke="#7c3aed" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrow)"/>
+  <text x="340" y="220" font-size="8" fill="#7c3aed">image pull</text>
+
+  <!-- Helm → pods -->
+  <line x1="564" y1="204" x2="590" y2="204" stroke="#0369a1" stroke-width="1.5" marker-end="url(#arrow-blue)"/>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- LOCAL DEV SECTION -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <rect x="16" y="378" width="766" height="130" rx="10" fill="#fafafa" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="399" y="398" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">LOCAL DEVELOPMENT — docker compose up</text>
+
+  <!-- local vote -->
+  <rect x="36" y="410" width="110" height="50" rx="7" fill="#1d4ed8" filter="url(#shadow)"/>
+  <text x="91" y="430" text-anchor="middle" font-size="10" font-weight="600" fill="white">vote</text>
+  <text x="91" y="445" text-anchor="middle" font-size="8.5" fill="#bfdbfe">localhost:8080</text>
+
+  <!-- local result -->
+  <rect x="166" y="410" width="110" height="50" rx="7" fill="#0f766e" filter="url(#shadow)"/>
+  <text x="221" y="430" text-anchor="middle" font-size="10" font-weight="600" fill="white">result</text>
+  <text x="221" y="445" text-anchor="middle" font-size="8.5" fill="#99f6e4">localhost:8081</text>
+
+  <!-- local worker -->
+  <rect x="296" y="410" width="110" height="50" rx="7" fill="#b45309" filter="url(#shadow)"/>
+  <text x="351" y="430" text-anchor="middle" font-size="10" font-weight="600" fill="white">worker</text>
+  <text x="351" y="445" text-anchor="middle" font-size="8.5" fill="#fde68a">.NET 8</text>
+
+  <!-- local redis -->
+  <rect x="426" y="410" width="110" height="50" rx="7" fill="#dc2626" filter="url(#shadow)"/>
+  <text x="481" y="430" text-anchor="middle" font-size="10" font-weight="600" fill="white">Redis</text>
+  <text x="481" y="445" text-anchor="middle" font-size="8.5" fill="#fecaca">redis:7-alpine</text>
+
+  <!-- local postgres -->
+  <rect x="556" y="410" width="110" height="50" rx="7" fill="#1e40af" filter="url(#shadow)"/>
+  <text x="611" y="430" text-anchor="middle" font-size="10" font-weight="600" fill="white">PostgreSQL</text>
+  <text x="611" y="445" text-anchor="middle" font-size="8.5" fill="#bfdbfe">postgres:15-alpine</text>
+
+  <!-- local data flow arrows -->
+  <line x1="146" y1="435" x2="166" y2="435" stroke="#64748b" stroke-width="1.2" marker-end="url(#arrow)"/>
+  <line x1="276" y1="435" x2="296" y2="435" stroke="#64748b" stroke-width="1.2" marker-end="url(#arrow)"/>
+  <line x1="406" y1="435" x2="426" y2="435" stroke="#64748b" stroke-width="1.2" marker-end="url(#arrow)"/>
+  <line x1="536" y1="435" x2="556" y2="435" stroke="#64748b" stroke-width="1.2" marker-end="url(#arrow)"/>
+
+  <!-- docker compose label -->
+  <text x="399" y="478" text-anchor="middle" font-size="9" fill="#94a3b8">All containers run as non-root · base images pinned · .dockerignore in each service</text>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- SECURITY BADGES -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <rect x="800" y="378" width="282" height="130" rx="10" fill="#fafafa" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="941" y="398" text-anchor="middle" font-size="11" font-weight="700" fill="#334155">SECURITY CONTROLS</text>
+
+  <text x="820" y="418" font-size="10" fill="#166534">✅  Non-root (uid 10001 / 1000)</text>
+  <text x="820" y="436" font-size="10" fill="#166534">✅  Pinned base images</text>
+  <text x="820" y="454" font-size="10" fill="#166534">✅  Trivy CRITICAL+HIGH gate</text>
+  <text x="820" y="472" font-size="10" fill="#166534">✅  .dockerignore per service</text>
+  <text x="820" y="490" font-size="10" fill="#166534">✅  No secrets in Git</text>
+  <text x="820" y="508" font-size="10" fill="#166534">✅  GITHUB_TOKEN for GHCR</text>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- LEGEND -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <rect x="16" y="524" width="1066" height="60" rx="10" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="40" y="543" font-size="10" font-weight="600" fill="#334155">Legend:</text>
+  <line x1="100" y1="538" x2="140" y2="538" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="148" y="542" font-size="9" fill="#334155">user request</text>
+  <line x1="230" y1="538" x2="270" y2="538" stroke="#10b981" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <text x="278" y="542" font-size="9" fill="#334155">response / result</text>
+  <line x1="380" y1="538" x2="420" y2="538" stroke="#64748b" stroke-width="1.5"/>
+  <text x="428" y="542" font-size="9" fill="#334155">data flow</text>
+  <line x1="500" y1="538" x2="540" y2="538" stroke="#f59e0b" stroke-width="1.8" stroke-dasharray="6,3"/>
+  <text x="548" y="542" font-size="9" fill="#334155">deploy (Helm)</text>
+  <line x1="640" y1="538" x2="680" y2="538" stroke="#7c3aed" stroke-width="1.2" stroke-dasharray="4,3"/>
+  <text x="688" y="542" font-size="9" fill="#334155">image push / pull</text>
+  <line x1="800" y1="538" x2="840" y2="538" stroke="#10b981" stroke-width="1.5"/>
+  <text x="848" y="542" font-size="9" fill="#334155">CI job sequence</text>
+
+  <!-- second legend row -->
+  <text x="40" y="572" font-size="9" fill="#64748b">Repo: github.com/mikekoe/voting-app  ·  Registry: ghcr.io/mikekoe  ·  Cluster: capstone-eks (eu-north-1)  ·  Chart: ./voting-app  ·  Namespace: voting</text>
+
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <!-- ROLLBACK CALLOUT -->
+  <!-- ═══════════════════════════════════════════════════════ -->
+  <rect x="16" y="600" width="1066" height="136" rx="10" fill="#fffbeb" stroke="#fde68a" stroke-width="1.5"/>
+  <text x="549" y="620" text-anchor="middle" font-size="11" font-weight="700" fill="#92400e">HELM ROLLBACK FLOW</text>
+
+  <!-- rev 1 -->
+  <rect x="50" y="632" width="160" height="56" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="1.2"/>
+  <text x="130" y="650" text-anchor="middle" font-size="10" font-weight="700" fill="#166534">Revision 1</text>
+  <text x="130" y="665" text-anchor="middle" font-size="9" fill="#166534">helm install</text>
+  <text x="130" y="678" text-anchor="middle" font-size="9" fill="#166534">All pods Running ✓</text>
+
+  <!-- arrow -->
+  <line x1="210" y1="660" x2="260" y2="660" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="235" y="655" text-anchor="middle" font-size="8" fill="#64748b">bad tag</text>
+
+  <!-- rev 2 -->
+  <rect x="260" y="632" width="160" height="56" rx="7" fill="#fee2e2" stroke="#fca5a5" stroke-width="1.2"/>
+  <text x="340" y="650" text-anchor="middle" font-size="10" font-weight="700" fill="#991b1b">Revision 2</text>
+  <text x="340" y="665" text-anchor="middle" font-size="9" fill="#991b1b">helm upgrade</text>
+  <text x="340" y="678" text-anchor="middle" font-size="9" fill="#991b1b">ImagePullBackOff ✗</text>
+
+  <!-- arrow -->
+  <line x1="420" y1="660" x2="470" y2="660" stroke="#64748b" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="445" y="655" text-anchor="middle" font-size="8" fill="#64748b">rollback 1</text>
+
+  <!-- rev 3 -->
+  <rect x="470" y="632" width="160" height="56" rx="7" fill="#dcfce7" stroke="#86efac" stroke-width="1.2"/>
+  <text x="550" y="650" text-anchor="middle" font-size="10" font-weight="700" fill="#166534">Revision 3</text>
+  <text x="550" y="665" text-anchor="middle" font-size="9" fill="#166534">helm rollback</text>
+  <text x="550" y="678" text-anchor="middle" font-size="9" fill="#166534">Rollback to 1 ✓</text>
+
+  <!-- commands -->
+  <rect x="700" y="632" width="360" height="90" rx="7" fill="#1e293b"/>
+  <text x="720" y="651" font-size="9" fill="#94a3b8"># bad release</text>
+  <text x="720" y="665" font-size="9" fill="#e2e8f0">helm upgrade voting ./voting-app -n voting \</text>
+  <text x="720" y="679" font-size="9" fill="#e2e8f0">  --set vote.tag=this-tag-does-not-exist</text>
+  <text x="720" y="696" font-size="9" fill="#94a3b8"># roll back</text>
+  <text x="720" y="710" font-size="9" fill="#e2e8f0">helm rollback voting 1 -n voting --wait</text>
+</svg>
