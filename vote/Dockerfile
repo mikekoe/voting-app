@@ -6,13 +6,16 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends curl && \
     rm -rf /var/lib/apt/lists/*
 
-RUN useradd --system --uid 10001 --no-create-home appuser
+RUN useradd --system --uid 10001 --create-home appuser
 # Set the application directory
 WORKDIR /usr/local/app
+
 
 # Install our requirements.txt
 COPY requirements.txt ./requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
+
+RUN pip uninstall -y setuptools wheel
 
 # dev defines a stage for development, where it'll watch for filesystem changes
 FROM base AS dev
